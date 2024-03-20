@@ -9,7 +9,7 @@ body {
   background: #222;
 }
 
-.form {
+.card {
   width: 90%;
   max-width: 500px;
   background: linear-gradient(135deg, #d1429a, #9a90db);
